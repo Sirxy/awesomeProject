@@ -1,0 +1,2 @@
+# awesomeProject
+golang starting
